@@ -58,7 +58,6 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-articles](modules/articles)
 - [react-native-app-menu](modules/app-menu)
 - [react-native-push-notifications](modules/push-notifications)
-- [react-native-maps](modules/maps)
 - [react-native-chat](modules/chat)
 - [react-native-user-profile](modules/user-profile)
 - [react-native-splash](modules/splash)
